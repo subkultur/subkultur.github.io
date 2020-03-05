@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event on der verein subkulturelles hilfswerk</title>
+    <link>https://subkultur.github.io/tags/event/</link>
+    <description>Recent content in event on der verein subkulturelles hilfswerk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2020 17:08:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://subkultur.github.io/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Herr Ringer und Nicolas Reisepass 2020_03_11</title>
+      <link>https://subkultur.github.io/events/veranstaltung_2020_03_11/</link>
+      <pubDate>Thu, 05 Mar 2020 17:08:35 +0100</pubDate>
+      
+      <guid>https://subkultur.github.io/events/veranstaltung_2020_03_11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yamas 2020_02_19</title>
+      <link>https://subkultur.github.io/events/veranstaltung_2020_02_19/</link>
+      <pubDate>Wed, 19 Feb 2020 17:08:35 +0100</pubDate>
+      
+      <guid>https://subkultur.github.io/events/veranstaltung_2020_02_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bademantel anziehen 2020_01_24</title>
+      <link>https://subkultur.github.io/events/veranstaltung_2020_01_24/</link>
+      <pubDate>Fri, 24 Jan 2020 17:08:35 +0100</pubDate>
+      
+      <guid>https://subkultur.github.io/events/veranstaltung_2020_01_24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<svg id="svg-main" viewBox="0 0 1000 2000" fill="black" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .big { font: 70px sans-serif; fill: white; }
+        .small { font: bold 30px sans-serif; fill: black; }
+    </style>
+
+    <rect width="1000" height="1000" x="0" y="500" fill="white" />
+    <circle cx="500" cy="1000" r="140" fill="black" />
+
+    <text x="200" y="1700" class="big">der verein</text>
+
+    <circle cx="225" cy="1750" r="20" fill="white" />
+    <text x="217" y="1757" class="small">s</text>
+    <circle cx="275" cy="1750" r="20" fill="white" />
+    <text x="267" y="1757" class="small">u</text>
+    <circle cx="325" cy="1750" r="20" fill="white" />
+    <text x="317" y="1757" class="small">b</text>
+    <circle cx="375" cy="1750" r="20" fill="white" />
+    <text x="367" y="1757" class="small">k</text>
+    <circle cx="425" cy="1750" r="20" fill="white" />
+    <text x="417" y="1757" class="small">u</text>
+    <circle cx="475" cy="1750" r="20" fill="white" />
+    <text x="470" y="1757" class="small">l</text>
+    <circle cx="525" cy="1750" r="20" fill="white" />
+    <text x="520" y="1757" class="small">t</text>
+    <circle cx="575" cy="1750" r="20" fill="white" />
+    <text x="567" y="1757" class="small">u</text>
+    <circle cx="625" cy="1750" r="20" fill="white" />
+    <text x="617" y="1757" class="small">r</text>
+    <circle cx="675" cy="1750" r="20" fill="white" />
+    <text x="667" y="1757" class="small">e</text>
+    <circle cx="725" cy="1750" r="20" fill="white" />
+    <text x="720" y="1757" class="small">l</text>
+    <circle cx="775" cy="1750" r="20" fill="white" />
+    <text x="770" y="1757" class="small">l</text>
+    <circle cx="825" cy="1750" r="20" fill="white" />
+    <text x="817" y="1757" class="small">e</text>
+    <circle cx="875" cy="1750" r="20" fill="white" />
+    <text x="867" y="1757" class="small">s</text>
+
+    <circle cx="225" cy="1800" r="20" fill="white" />
+    <text x="217" y="1807" class="small">h</text>
+    <circle cx="275" cy="1800" r="20" fill="white" />
+    <text x="270" y="1807" class="small">i</text>
+    <circle cx="325" cy="1800" r="20" fill="white" />
+    <text x="320" y="1807" class="small">l</text>
+    <circle cx="375" cy="1800" r="20" fill="white" />
+    <text x="370" y="1807" class="small">f</text>
+    <circle cx="425" cy="1800" r="20" fill="white" />
+    <text x="417" y="1807" class="small">s</text>
+    <circle cx="475" cy="1800" r="20" fill="white" />
+    <text x="463" y="1807" class="small">w</text>
+    <circle cx="525" cy="1800" r="20" fill="white" />
+    <text x="517" y="1807" class="small">e</text>
+    <circle cx="575" cy="1800" r="20" fill="white" />
+    <text x="569" y="1807" class="small">r</text>
+    <circle cx="625" cy="1800" r="20" fill="white" />
+    <text x="617" y="1807" class="small">k</text>
+
+</svg>

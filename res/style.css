@@ -1,0 +1,10 @@
+@media (max-width: 760px) {
+
+    .logo_sm {
+        width: 80%;
+    }
+
+    .logo_big {
+        width: 100%;
+    }
+}
