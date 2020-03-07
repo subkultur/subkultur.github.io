@@ -59,3 +59,27 @@ document.addEventListener('theme-change', (e) => {
 //     });
 
 // });
+
+function pickRandomElement(arr) {
+    const idx = Math.floor(Math.random() * arr.length);
+    return arr[idx];
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    window.setInterval(function() {
+        const elements = document.querySelectorAll(".logo_sm .lcircle"),
+        element = pickRandomElement(elements);
+
+        const steps = [18, 16, 14, 12, 10, 8, 6, 4, 2, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
+
+        let stepCnt = 0;
+        function loop() {
+            if (stepCnt >= steps.length) { return; }
+            element.setAttribute('r',steps[stepCnt]);
+            stepCnt = stepCnt + 1;
+            setTimeout(loop, 100);
+        }
+        loop();
+
+    }, 5000);
+});
