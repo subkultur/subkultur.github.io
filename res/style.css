@@ -56,3 +56,18 @@
     }
 
 }
+
+.gallery {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+.gallery a {
+    border: 0;
+    margin-bottom: .5em;
+    margin-left: .2em;
+}
+.gallery img {
+    border: .125em solid #bdbdbd;
+}

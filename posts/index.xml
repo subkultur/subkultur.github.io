@@ -5,8 +5,38 @@
         <description>Recent content in Posts on der verein subkulturelles hilfswerk</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 05 Mar 2020 17:08:35 +0100</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2020 15:28:15 +0100</lastBuildDate>
         <atom:link href="https://subkultur.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Gallerie_demo_2020_03_09</title>
+            <link>https://subkultur.github.io/posts/2020/03/gallerie_demo_2020_03_09/</link>
+            <pubDate>Sat, 07 Mar 2020 15:28:15 +0100</pubDate>
+            
+            <guid>https://subkultur.github.io/posts/2020/03/gallerie_demo_2020_03_09/</guid>
+            <description>window.addEventListener(&#39;load&#39;, function() {baguetteBox.run(&#39;.gallery&#39;);}); </description>
+            <content type="html"><![CDATA[<div class="gallery">
+  <a href="img1.jpg" title="This image has a title but no caption!">
+    <img src="/posts/2020/03/gallerie_demo_2020_03_09/img1_hu3d03a01dcc18bc5be0e67db3d8d209a6_1844168_200x150_fill_q75_box_smart1.jpg" alt="This image has a title but no caption!"/>
+  </a>
+  <a href="img2.jpg" data-caption="This image has a caption!" title="This image has a caption!">
+    <img src="/posts/2020/03/gallerie_demo_2020_03_09/img2_hu3d03a01dcc18bc5be0e67db3d8d209a6_1952768_200x150_fill_q75_box_smart1.jpg" alt="This image has a caption!"/>
+  </a>
+  <a href="img3.jpg" data-caption="Don&amp;rsquo;t generate the thumbnail for this one, use an existing file." title="Don&amp;rsquo;t generate the thumbnail for this one, use an existing file.">
+    <img src="/posts/2020/03/gallerie_demo_2020_03_09/img3_hu3d03a01dcc18bc5be0e67db3d8d209a6_2031518_200x150_fill_q75_box_smart1.jpg" alt="Don&amp;rsquo;t generate the thumbnail for this one, use an existing file."/>
+  </a>
+  <a href="img4.jpg" data-caption="Use a different size for the thumbnail…" title="Use a different size for the thumbnail…">
+    <img src="/posts/2020/03/gallerie_demo_2020_03_09/img4_hu3d03a01dcc18bc5be0e67db3d8d209a6_7954297_400x300_fill_q75_box_smart1.jpg" alt="Use a different size for the thumbnail…"/>
+  </a>
+</div><link rel="stylesheet" href="/assets/css/baguetteBox.min.css"/>
+  <script async src="/assets/js/baguetteBox.min.js"></script>
+  <script type="text/javascript">
+    window.addEventListener('load', function() {
+      baguetteBox.run('.gallery');
+    });
+  </script>
+]]></content>
+        </item>
         
         <item>
             <title>Über unsere Gründung</title>
@@ -14,8 +44,8 @@
             <pubDate>Thu, 05 Mar 2020 17:08:35 +0100</pubDate>
             
             <guid>https://subkultur.github.io/posts/2020/03/%C3%BCber-unsere-gr%C3%BCndung/</guid>
-            <description>gegründet! </description>
-            <content type="html"><![CDATA[<h1 id="gegründet">gegründet!</h1>
+            <description>hallo ihr alle!</description>
+            <content type="html"><![CDATA[<p>hallo ihr alle!</p>
 ]]></content>
         </item>
         
