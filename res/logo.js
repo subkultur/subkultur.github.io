@@ -68,17 +68,19 @@ function pickRandomElement(arr) {
 const steps = [18, 16, 14, 12, 10, 8, 6, 4, 2, 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20];
 let intervalSet;
 function startInterval() {
-    intervalSet = window.setInterval(function() {
-        const element = pickRandomElement(document.querySelectorAll(".logo_sm .lcircle"));
-        let stepCnt = 0;
-        function loop() {
-            if (stepCnt >= steps.length) { return; }
-            element.setAttribute('r',steps[stepCnt]);
-            stepCnt = stepCnt + 1;
-            window.setTimeout(loop, 100);
-        }
-        loop();
-    }, 5000);
+    if (document.querySelector(".logo_sm")) {
+        intervalSet = window.setInterval(function() {
+            const element = pickRandomElement(document.querySelectorAll(".logo_sm .lcircle"));
+            let stepCnt = 0;
+            function loop() {
+                if (stepCnt >= steps.length) { return; }
+                element.setAttribute('r',steps[stepCnt]);
+                stepCnt = stepCnt + 1;
+                window.setTimeout(loop, 100);
+            }
+            loop();
+        }, 5000);
+    }
 }
 
 window.addEventListener('DOMContentLoaded', () => {
