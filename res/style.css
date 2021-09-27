@@ -110,6 +110,11 @@ Unterste Zeile des Hauptlogos animieren
     border: .125em solid #bdbdbd;
 }
 
+div.start-container {
+    max-width: 600px;
+    padding: 20px;
+}
+
 div.start-greeting {
     text-align: start;
     padding: 3rem;
@@ -121,13 +126,6 @@ div.start-news-wrapper {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 3rem;
-}
-
-div.start-news-wrapper span.start-news-title {
-    flex-direction: row;
-    margin-bottom: 0;
-    font-size: smaller;
 }
 
 div.start-news-container {
