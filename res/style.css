@@ -147,14 +147,9 @@ div.start-news-list {
         align-items: center;
         justify-content: center;
     }
-    div.start-news-container {
-        display: flex;
-        flex-direction: column;
-    }
     div.start-news-list {
         margin-left: 3rem;
         width: 90%;
-        flex-direction: row;
     }
     div.start-news-list span.start-news-subtitle {
         width: 10%;
