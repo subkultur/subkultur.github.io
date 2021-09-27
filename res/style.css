@@ -179,3 +179,6 @@ div.start-news-list li {
     margin-bottom: 0.6rem;
 }
 
+div.start-news-list li span {
+    font-size: 10px;
+}
