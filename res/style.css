@@ -1,5 +1,8 @@
-@media (max-width: 760px) {
+.logo_big {
+    padding-top: 1rem;
+}
 
+@media (max-width: 760px) {
     .logo_sm {
         width: 80%;
     }
