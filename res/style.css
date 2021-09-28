@@ -117,8 +117,8 @@ div.start-container {
 
 div.start-greeting {
     text-align: start;
-    padding: 3rem;
-    padding-bottom: 0;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 div.start-news-wrapper {
