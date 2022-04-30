@@ -98,6 +98,28 @@ Unterste Zeile des Hauptlogos animieren
 
 }
 
+.link-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.link-container div {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.link-container img {
+    width: 240px;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
 .gallery {
     display: flex;
     flex-flow: row wrap;
