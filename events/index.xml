@@ -1,6 +1,10 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on der verein subkulturelles hilfswerk</title><link>https://subkultur.github.io/events/</link><description>Recent content in Events on der verein subkulturelles hilfswerk</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><lastBuildDate>Sat, 30 Apr 2022 12:08:35 +0100</lastBuildDate><atom:link href="https://subkultur.github.io/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Pflanzen für Weinsberg</title><link>https://subkultur.github.io/events/2022_04_30_aktion/</link><pubDate>Sat, 30 Apr 2022 12:08:35 +0100</pubDate><guid>https://subkultur.github.io/events/2022_04_30_aktion/</guid><description>Zum Flyer als PDF.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Events on der verein subkulturelles hilfswerk</title><link>https://subkultur.github.io/events/</link><description>Recent content in Events on der verein subkulturelles hilfswerk</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><lastBuildDate>Sun, 19 Jun 2022 12:08:35 +0100</lastBuildDate><atom:link href="https://subkultur.github.io/events/index.xml" rel="self" type="application/rss+xml"/><item><title>Sub Dorsch eröffnet</title><link>https://subkultur.github.io/events/2022_07_02_subdorsch/</link><pubDate>Sun, 19 Jun 2022 12:08:35 +0100</pubDate><guid>https://subkultur.github.io/events/2022_07_02_subdorsch/</guid><description>Am 2. Juli geht&amp;rsquo;s endlich los!</description><content type="html"><![CDATA[<p>Am 2. Juli geht&rsquo;s endlich los!</p>
+<p><img src="subdorsch_flyer_1.jpg" alt="flyer1"></p>
+<p><img src="subdorsch_flyer_2.jpg" alt="flyer2"></p>
+]]></content></item><item><title>Pflanzen für Weinsberg</title><link>https://subkultur.github.io/events/2022_04_30_aktion/</link><pubDate>Sat, 30 Apr 2022 12:08:35 +0100</pubDate><guid>https://subkultur.github.io/events/2022_04_30_aktion/</guid><description>
+Zum Flyer als PDF.
 Wir haben auch einen Artikel über die Entstehung des Beets und Bilder von der Bepflanzung.
-Übrigens: Die verwendeten Pflanzen wurden uns freundlicherweise von den Weinsberger Rosenkulturen gespendet! Vielen Dank 🙂 window.addEventListener('load', function() { baguetteBox.run('.gallery'); });</description><content type="html"><![CDATA[<p><img src="/flyer/2022_04_30/pflanzaktion.png" alt="flyer"></p>
+Übrigens: Die verwendeten Pflanzen wurden uns freundlicherweise von den Weinsberger Rosenkulturen gespendet! Vielen Dank 🙂</description><content type="html"><![CDATA[<p><img src="/flyer/2022_04_30/pflanzaktion.png" alt="flyer"></p>
 <p>Zum Flyer als <a href="/flyer/2022_04_30/Sub-Weinsberg-Pflanztag--final.pdf">PDF</a>.</p>
 <p>Wir haben auch einen Artikel über die <a href="https://subkultur.github.io/posts/2022/03/entstehung-urban-gardening/">Entstehung</a> des Beets und Bilder von der <a href="https://subkultur.github.io/posts/2022/04/pflanzaktion/">Bepflanzung</a>.</p>
 <p>
@@ -9,8 +13,8 @@ Wir haben auch einen Artikel über die Entstehung des Beets und Bilder von der B
 
 <div class="gallery">
   <a href="PHOTO-2022-04-29-16-32-14.jpg" title="Pflanzenspende der Weinsberger Rosenkulturen">
-    <img src="/events/2022_04_30_aktion/PHOTO-2022-04-29-16-32-14_hu3d7e520aacd5ccdd9d16a407cf8559c6_272659_400x300_fill_q75_box_smart1.jpg" alt="Pflanzenspende der Weinsberger Rosenkulturen"/>
-  </a>
+      <img src="/events/2022_04_30_aktion/PHOTO-2022-04-29-16-32-14_hu3d7e520aacd5ccdd9d16a407cf8559c6_272659_400x300_fill_q75_box_smart1.jpg" alt="Pflanzenspende der Weinsberger Rosenkulturen"/>
+    </a>
 </div><link rel="stylesheet" href="/assets/css/baguetteBox.min.css"/>
   <script async src="/assets/js/baguetteBox.min.js"></script>
   <script type="text/javascript">
