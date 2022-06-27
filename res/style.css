@@ -126,11 +126,20 @@ Unterste Zeile des Hauptlogos animieren
     align-items: center;
     justify-content: center;
 }
+
 .gallery a {
     border: 0;
     margin-bottom: .5em;
     margin-left: .2em;
+    flex-basis: 40%;
 }
+
+@media (max-width: 900px) {
+    .gallery a {
+        flex-basis: 60%;
+    }    
+}
+
 .gallery img {
     border: .125em solid #bdbdbd;
 }
