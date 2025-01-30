@@ -2,17 +2,53 @@
     padding-top: 1rem;
 }
 
-@media (min-width: 760px) {
-    .logo_small {
-        display: none;
-    }
+.logo_sm {
+    width: 80%;
 }
 
-@media (max-width: 760px) {
-    .logo_big {
+@media screen and (min-width: 0px) and (max-width: 684px) {
+
+
+    .logo_mobile, .logo_mobile_sm {
+        display: block;
+    }
+
+    .logo_big, .logo_sm {
         display: none;
     }
+
+
 }
+
+@media screen and (min-width: 685px) {
+    .logo_mobile, .logo_mobile_sm {
+        display: none;
+    }
+
+    .logo_big, .logo_sm {
+        display: block;
+    }
+    
+}
+
+
+/*
+Wird das "breite" Logo auch für kleine Bildschirme
+benutzt, muss man folgendes nutzen, damit es in der
+Breite mit der Bildschirmbreite mitschrumpft.
+*/
+/*
+
+@media screen and (max-width: 760px) {
+    .logo_sm {
+        width: 80%;
+    }
+
+    .logo_big {
+        width: 100%;
+    }
+}*/
+
 
 /*
 Kleines Logo: Kreise drehen

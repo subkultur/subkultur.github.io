@@ -72,7 +72,7 @@ function startInterval() {
         intervalSet = window.setInterval(function() {
             const els = [
                 pickRandomElement(document.querySelectorAll(".logo_big .lcircle")),
-                pickRandomElement(document.querySelectorAll(".logo_small .lcircle"))
+                pickRandomElement(document.querySelectorAll(".logo_mobile .lcircle"))
             ];
             let stepCnt = 0;
             function loop() {
