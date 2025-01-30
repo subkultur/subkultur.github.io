@@ -70,11 +70,14 @@ let intervalSet;
 function startInterval() {
     if (document.querySelector(".logo_big")) {
         intervalSet = window.setInterval(function() {
-            const element = pickRandomElement(document.querySelectorAll(".logo_big .lcircle"));
+            const els = [
+                pickRandomElement(document.querySelectorAll(".logo_big .lcircle")),
+                pickRandomElement(document.querySelectorAll(".logo_small .lcircle"))
+            ];
             let stepCnt = 0;
             function loop() {
                 if (stepCnt >= steps.length) { return; }
-                element.setAttribute('r',steps[stepCnt]);
+                els.forEach((e) => e.setAttribute('r', steps[stepCnt]))
                 stepCnt = stepCnt + 1;
                 window.setTimeout(loop, 100);
             }

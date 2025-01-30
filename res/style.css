@@ -2,13 +2,15 @@
     padding-top: 1rem;
 }
 
-@media (max-width: 760px) {
-    .logo_sm {
-        width: 80%;
+@media (min-width: 760px) {
+    .logo_small {
+        display: none;
     }
+}
 
+@media (max-width: 760px) {
     .logo_big {
-        width: 100%;
+        display: none;
     }
 }
 
